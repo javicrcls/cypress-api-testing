@@ -1,1 +1,1 @@
-# Cypress Api project to test Gengo sandbox API
+# Cypress Api playground to test https://developer.marvel.com/
